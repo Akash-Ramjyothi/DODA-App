@@ -1,7 +1,7 @@
 <h1 align="center">Discuss on Drawings app (DODA)</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54114888/211217271-ab907484-840a-40cb-9dd3-7bf9391e458a.png" width="180" height="180">
+<img src="https://github.com/Akash-Ramjyothi/DODA-App/assets/54114888/d4c2506f-257c-47a4-821b-5cfe0445ca04" width="180" height="180">
 </p>
 
 ## 📜 Description:
